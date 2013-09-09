@@ -1,0 +1,8 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSqlServer", "SimpleSqlServer\SimpleSqlServer.csproj", "{CD975F4A-B096-4E19-A755-55DE890AC38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleSqlServerTest", "SimpleSqlServerTest\SimpleSqlServerTest.csproj", "{FE3279AB-D1B4-4D34-B121-18F404A91FC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-
